@@ -1,0 +1,18 @@
+header, .contact {
+  height: 100vh;
+  color: brown;
+  background: lightblue;
+}
+
+header button, .contact button {
+  background: blue;
+}
+
+header button:hover, .contact button:hover {
+  background: green;
+}
+
+.contact {
+  background: lightcoral;
+}
+/*# sourceMappingURL=style.css.map */
